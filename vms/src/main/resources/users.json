@@ -1,0 +1,79 @@
+[
+	{
+		"companyName": "APPAIAN",
+		"eMail": "appian@surge.com",
+		"phone": "7777777777",
+		"password": "Demo@123",
+		"confirmPassword": "Demo@123"
+	},
+	{
+		"companyName": "fghj",
+		"eMail": "rajesh.sebastin@surgetechinc.in",
+		"phone": "345678",
+		"password": "rajesh",
+		"confirmPassword": "dfghj"
+	},
+	{
+		"companyName": "kannan",
+		"eMail": "kannan@gmail.com",
+		"phone": "12345678",
+		"password": "kannan",
+		"confirmPassword": "kannan"
+	},
+	{
+		"companyName": "",
+		"eMail": "",
+		"phone": "",
+		"password": "",
+		"confirmPassword": ""
+	},
+	{
+		"companyName": "fgh",
+		"eMail": "fghj",
+		"phone": "23456789",
+		"password": "12345",
+		"confirmPassword": "12345"
+	},
+	{
+		"companyName": "Kan",
+		"eMail": "k@gmail.com",
+		"phone": "123456789",
+		"password": "1234",
+		"confirmPassword": "1234"
+	},
+	{
+		"companyName": null,
+		"eMail": null,
+		"phone": null,
+		"password": null,
+		"confirmPassword": null
+	},
+	{
+		"companyName": "XYZ",
+		"eMail": "xyz@gmail.com",
+		"phone": "6515416541",
+		"password": "12345",
+		"confirmPassword": "12345"
+	},
+	{
+		"companyName": "123",
+		"eMail": "123",
+		"phone": "6515416541",
+		"password": "123",
+		"confirmPassword": "123"
+	},
+	{
+		"companyName": "Surge",
+		"eMail": "Surge",
+		"phone": "Surge",
+		"password": "Surge",
+		"confirmPassword": "Surge"
+	},
+	{
+		"companyName": "Surge",
+		"eMail": "Surge",
+		"phone": "Surge",
+		"password": "Surge",
+		"confirmPassword": "Surge"
+	}
+]
